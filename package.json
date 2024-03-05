@@ -1,0 +1,25 @@
+{
+  "name": "tea-testproject",
+  "dependencies": {
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "string-calculator-vozneseo": "^1.0.3"
+  },
+  "version": "1.0.2",
+  "description": "Test project for tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/web3firm/tea-testproject"
+  },
+  "bugs": {
+    "url": "https://github.com/web3firm/tea-testproject/issues"
+  },
+  "homepage": "https://github.com/web3firm/tea-testproject#readme",
+  "author": "web3firm",
+  "license": "ISC"
+}
